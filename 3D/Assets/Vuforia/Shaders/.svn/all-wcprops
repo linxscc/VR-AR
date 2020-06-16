@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Shaders
+END
+Text3D.shader
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Shaders/Text3D.shader
+END
+VertexLitWithZ.shader
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Shaders/VertexLitWithZ.shader
+END
+DepthMask.shader
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Shaders/DepthMask.shader
+END
+ClippingMask.shader
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Shaders/ClippingMask.shader
+END
+ColoredLines.shader
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Shaders/ColoredLines.shader
+END
+BrightTexture.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Shaders/BrightTexture.shader.meta
+END
+VideoBackground.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Shaders/VideoBackground.shader.meta
+END
+RenderVideoBackground.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Shaders/RenderVideoBackground.shader.meta
+END
+Text3D.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Shaders/Text3D.shader.meta
+END
+BrightTexture.shader
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Shaders/BrightTexture.shader
+END
+VertexLitWithZ.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Shaders/VertexLitWithZ.shader.meta
+END
+DepthMask.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Shaders/DepthMask.shader.meta
+END
+VideoBackground.shader
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Shaders/VideoBackground.shader
+END
+RenderVideoBackground.shader
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Shaders/RenderVideoBackground.shader
+END
+ClippingMask.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Shaders/ClippingMask.shader.meta
+END
+ColoredLines.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Shaders/ColoredLines.shader.meta
+END

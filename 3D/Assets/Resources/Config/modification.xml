@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UserDataNew>
+  <!-- 版本号 -->
+  <versions>
+    <versions>v.1.0.0.0</versions>
+  </versions>
+  <!-- 3d相机设置 -->
+  <stereoCamera>
+    <point>2.5</point>
+    <eyeDistance>0.065</eyeDistance>
+    <modelDistance>-2.48</modelDistance>
+  </stereoCamera>
+  <!-- 模型名称 -->
+  <prefab>
+    <prefabName>001_IRONMAN,AIRCRAFT,vPlace_model_001_MF,education_kidney,sxd,human,earth02,DING_001</prefabName>
+  </prefab>
+</UserDataNew>

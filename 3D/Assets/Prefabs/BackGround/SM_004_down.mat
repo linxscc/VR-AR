@@ -1,0 +1,227 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: SM_004_down
+  m_Shader: {fileID: 4800000, guid: bcaf9e8849eb24440b2785dd85ff6797, type: 3}
+  m_ShaderKeywords: _NORMALMAP
+  m_LightmapFlags: 0
+  m_CustomRenderQueue: 2000
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 2800000, guid: 7a1f1a84a4ac4ad45b86838e35f32e07, type: 3}
+          m_Scale: {x: 0, y: 0}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BumpMap
+        second:
+          m_Texture: {fileID: 2800000, guid: 3792c20621854e241b153409dba2566e, type: 3}
+          m_Scale: {x: 15, y: 15}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DetailNormalMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Metallic
+        second:
+          m_Texture: {fileID: 2800000, guid: cbe5e233f7f7e394a85d017176060dfb, type: 3}
+          m_Scale: {x: 15, y: 15}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _MetallicGlossMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _ParallaxMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _OcclusionMap
+        second:
+          m_Texture: {fileID: 2800000, guid: c79e8bfa0240bba4bae5425f39cb83b9, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _EmissionMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 10, y: 10}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DetailMask
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DetailAlbedoMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 100, y: 100}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Normal
+        second:
+          m_Texture: {fileID: 2800000, guid: 3792c20621854e241b153409dba2566e, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _AO
+        second:
+          m_Texture: {fileID: 2800000, guid: 1de5a5183fac61646a1c78bdbc17e50c, type: 3}
+          m_Scale: {x: 0, y: 0}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _GLOSS
+        second:
+          m_Texture: {fileID: 2800000, guid: 0b2f8fd543ff40844bf7c6ba38841977, type: 3}
+          m_Scale: {x: 0, y: 0}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Gloss
+        second:
+          m_Texture: {fileID: 2800000, guid: ede2042ed9a038a46992e5a15c65589d, type: 3}
+          m_Scale: {x: 15, y: 15}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Albedo
+        second:
+          m_Texture: {fileID: 2800000, guid: 53092644a60b629428b990996ae6d281, type: 3}
+          m_Scale: {x: 15, y: 15}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Metalness
+        second:
+          m_Texture: {fileID: 2800000, guid: 22097487f3a113149898cea8ab2e3a34, type: 3}
+          m_Scale: {x: 0, y: 0}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _SpecGlossMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Maintex
+        second:
+          m_Texture: {fileID: 2800000, guid: 53092644a60b629428b990996ae6d281, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _ALBEDO
+        second:
+          m_Texture: {fileID: 2800000, guid: 53092644a60b629428b990996ae6d281, type: 3}
+          m_Scale: {x: 0, y: 0}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _node_5519
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _SrcBlend
+        second: 1
+      data:
+        first:
+          name: _DstBlend
+        second: 0
+      data:
+        first:
+          name: _Cutoff
+        second: 0.5
+      data:
+        first:
+          name: _Metallic
+        second: 1
+      data:
+        first:
+          name: _ZWrite
+        second: 1
+      data:
+        first:
+          name: _Glossiness
+        second: 0.77
+      data:
+        first:
+          name: _BumpScale
+        second: 1
+      data:
+        first:
+          name: _Parallax
+        second: 0.02
+      data:
+        first:
+          name: _OcclusionStrength
+        second: 1
+      data:
+        first:
+          name: _DetailNormalMapScale
+        second: 1
+      data:
+        first:
+          name: _UVSec
+        second: 0
+      data:
+        first:
+          name: _Mode
+        second: 0
+      data:
+        first:
+          name: _Gloss
+        second: 0.72
+    m_Colors:
+      data:
+        first:
+          name: _EmissionColor
+        second: {r: 0, g: 0, b: 0, a: 1}
+      data:
+        first:
+          name: _Color
+        second: {r: 0.19896194, g: 0.30942017, b: 0.33823532, a: 1}
+      data:
+        first:
+          name: _SpecColor
+        second: {r: 0.2, g: 0.2, b: 0.2, a: 1}
+      data:
+        first:
+          name: _node_1737
+        second: {r: 1, g: 1, b: 1, a: 1}

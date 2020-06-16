@@ -1,0 +1,341 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/SteamVR/Scripts
+END
+SteamVR_Camera.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/SteamVR/Scripts/SteamVR_Camera.cs.meta
+END
+SteamVR_StatusText.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/SteamVR/Scripts/SteamVR_StatusText.cs.meta
+END
+SteamVR_Skybox.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/SteamVR/Scripts/SteamVR_Skybox.cs
+END
+SteamVR_ExternalCamera.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/SteamVR/Scripts/SteamVR_ExternalCamera.cs.meta
+END
+SteamVR_Overlay.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/SteamVR/Scripts/SteamVR_Overlay.cs
+END
+SteamVR_UpdatePoses.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/SteamVR/Scripts/SteamVR_UpdatePoses.cs.meta
+END
+SteamVR_Controller.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/SteamVR/Scripts/SteamVR_Controller.cs
+END
+SteamVR_Status.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/SteamVR/Scripts/SteamVR_Status.cs
+END
+SteamVR_TestController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/SteamVR/Scripts/SteamVR_TestController.cs
+END
+SteamVR_RenderModel.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/SteamVR/Scripts/SteamVR_RenderModel.cs.meta
+END
+SteamVR_Camera.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/SteamVR/Scripts/SteamVR_Camera.cs
+END
+SteamVR_StatusText.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/SteamVR/Scripts/SteamVR_StatusText.cs
+END
+SteamVR_CameraMask.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/SteamVR/Scripts/SteamVR_CameraMask.cs.meta
+END
+SteamVR_Frustum.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/SteamVR/Scripts/SteamVR_Frustum.cs.meta
+END
+SteamVR_SphericalProjection.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/SteamVR/Scripts/SteamVR_SphericalProjection.cs.meta
+END
+SteamVR_UpdatePoses.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/SteamVR/Scripts/SteamVR_UpdatePoses.cs
+END
+SteamVR_Fade.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/SteamVR/Scripts/SteamVR_Fade.cs
+END
+SteamVR_RenderModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/SteamVR/Scripts/SteamVR_RenderModel.cs
+END
+SteamVR_IK.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/SteamVR/Scripts/SteamVR_IK.cs
+END
+SteamVR_CameraFlip.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/SteamVR/Scripts/SteamVR_CameraFlip.cs
+END
+SteamVR_ControllerManager.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/SteamVR/Scripts/SteamVR_ControllerManager.cs.meta
+END
+SteamVR_CameraMask.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/SteamVR/Scripts/SteamVR_CameraMask.cs
+END
+SteamVR_Skybox.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/SteamVR/Scripts/SteamVR_Skybox.cs.meta
+END
+SteamVR.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/SteamVR/Scripts/SteamVR.cs.meta
+END
+SteamVR_Overlay.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/SteamVR/Scripts/SteamVR_Overlay.cs.meta
+END
+SteamVR_LoadLevel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/SteamVR/Scripts/SteamVR_LoadLevel.cs
+END
+SteamVR_Controller.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/SteamVR/Scripts/SteamVR_Controller.cs.meta
+END
+SteamVR_Status.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/SteamVR/Scripts/SteamVR_Status.cs.meta
+END
+SteamVR_TestController.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/SteamVR/Scripts/SteamVR_TestController.cs.meta
+END
+SteamVR_TrackedCamera.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/SteamVR/Scripts/SteamVR_TrackedCamera.cs.meta
+END
+SteamVR_ControllerManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/SteamVR/Scripts/SteamVR_ControllerManager.cs
+END
+SteamVR_Ears.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/SteamVR/Scripts/SteamVR_Ears.cs.meta
+END
+SteamVR_Render.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/SteamVR/Scripts/SteamVR_Render.cs
+END
+SteamVR.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/SteamVR/Scripts/SteamVR.cs
+END
+SteamVR_PlayArea.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/SteamVR/Scripts/SteamVR_PlayArea.cs.meta
+END
+SteamVR_Stats.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/SteamVR/Scripts/SteamVR_Stats.cs.meta
+END
+SteamVR_Fade.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/SteamVR/Scripts/SteamVR_Fade.cs.meta
+END
+SteamVR_Utils.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/SteamVR/Scripts/SteamVR_Utils.cs.meta
+END
+SteamVR_TrackedCamera.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/SteamVR/Scripts/SteamVR_TrackedCamera.cs
+END
+SteamVR_IK.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/SteamVR/Scripts/SteamVR_IK.cs.meta
+END
+SteamVR_CameraFlip.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/SteamVR/Scripts/SteamVR_CameraFlip.cs.meta
+END
+SteamVR_Menu.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/SteamVR/Scripts/SteamVR_Menu.cs.meta
+END
+SteamVR_GameView.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/SteamVR/Scripts/SteamVR_GameView.cs.meta
+END
+SteamVR_TrackedObject.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/SteamVR/Scripts/SteamVR_TrackedObject.cs.meta
+END
+SteamVR_Ears.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/SteamVR/Scripts/SteamVR_Ears.cs
+END
+SteamVR_ExternalCamera.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/SteamVR/Scripts/SteamVR_ExternalCamera.cs
+END
+SteamVR_LoadLevel.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/SteamVR/Scripts/SteamVR_LoadLevel.cs.meta
+END
+SteamVR_PlayArea.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/SteamVR/Scripts/SteamVR_PlayArea.cs
+END
+SteamVR_Stats.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/SteamVR/Scripts/SteamVR_Stats.cs
+END
+SteamVR_Utils.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/SteamVR/Scripts/SteamVR_Utils.cs
+END
+SteamVR_Menu.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/SteamVR/Scripts/SteamVR_Menu.cs
+END
+SteamVR_GameView.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/SteamVR/Scripts/SteamVR_GameView.cs
+END
+SteamVR_Render.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/SteamVR/Scripts/SteamVR_Render.cs.meta
+END
+SteamVR_TrackedObject.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/SteamVR/Scripts/SteamVR_TrackedObject.cs
+END
+SteamVR_Frustum.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/SteamVR/Scripts/SteamVR_Frustum.cs
+END
+SteamVR_SphericalProjection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/SteamVR/Scripts/SteamVR_SphericalProjection.cs
+END

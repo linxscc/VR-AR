@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/KinectScripts
+END
+FacetrackingManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/KinectScripts/FacetrackingManager.cs
+END
+KinectInterop.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/KinectScripts/KinectInterop.cs
+END
+SpeechErrorHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/KinectScripts/SpeechErrorHandler.cs
+END
+KinectRecorderPlayer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/KinectScripts/KinectRecorderPlayer.cs
+END
+VisualGestureManager.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/KinectScripts/VisualGestureManager.cs.meta
+END
+AvatarControllerClassic.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/KinectScripts/AvatarControllerClassic.cs
+END
+KinectGestures.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/KinectScripts/KinectGestures.cs.meta
+END
+BackgroundRemovalManager.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/KinectScripts/BackgroundRemovalManager.cs.meta
+END
+KinectGesturesScript_T.meta
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/KinectScripts/KinectGesturesScript_T.meta
+END
+Filters.meta
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/KinectScripts/Filters.meta
+END
+KinectManager.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/KinectScripts/KinectManager.cs.meta
+END
+VisualGestureManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/KinectScripts/VisualGestureManager.cs
+END
+InteractionManager.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/KinectScripts/InteractionManager.cs.meta
+END
+KinectGestures.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/KinectScripts/KinectGestures.cs
+END
+FacetrackingManager.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/KinectScripts/FacetrackingManager.cs.meta
+END
+SpeechManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/KinectScripts/SpeechManager.cs
+END
+openvr_api.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/KinectScripts/openvr_api.cs
+END
+KinectInterop.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/KinectScripts/KinectInterop.cs.meta
+END
+PortraitBackground.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/KinectScripts/PortraitBackground.cs
+END
+Interfaces.meta
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/KinectScripts/Interfaces.meta
+END
+Standard Assets.meta
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/KinectScripts/Standard%20Assets.meta
+END
+KinectRecorderPlayer.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/KinectScripts/KinectRecorderPlayer.cs.meta
+END
+SharpZipLib.meta
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/KinectScripts/SharpZipLib.meta
+END
+AvatarControllerClassic.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/KinectScripts/AvatarControllerClassic.cs.meta
+END
+AvatarController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/KinectScripts/AvatarController.cs
+END
+Samples.meta
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/KinectScripts/Samples.meta
+END
+SpeechManager.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/KinectScripts/SpeechManager.cs.meta
+END
+openvr_api.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/KinectScripts/openvr_api.cs.meta
+END
+PortraitBackground.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/KinectScripts/PortraitBackground.cs.meta
+END
+MultiScene.meta
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/KinectScripts/MultiScene.meta
+END
+Cubeman.meta
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/KinectScripts/Cubeman.meta
+END
+BackgroundRemovalManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/KinectScripts/BackgroundRemovalManager.cs
+END
+SpeechErrorHandler.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/KinectScripts/SpeechErrorHandler.cs.meta
+END
+Playmaker.meta
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/KinectScripts/Playmaker.meta
+END
+AvatarController.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/KinectScripts/AvatarController.cs.meta
+END
+KinectManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/KinectScripts/KinectManager.cs
+END
+InteractionManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/KinectScripts/InteractionManager.cs
+END

@@ -1,0 +1,365 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Scripts
+END
+ReconstructionBehaviour.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Scripts/ReconstructionBehaviour.cs.meta
+END
+VideoBackgroundBehaviour.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Scripts/VideoBackgroundBehaviour.cs
+END
+WireframeBehaviour.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Scripts/WireframeBehaviour.cs.meta
+END
+UserDefinedTargetBuildingBehaviour.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Scripts/UserDefinedTargetBuildingBehaviour.cs.meta
+END
+VuforiaRuntimeInitialization.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Scripts/VuforiaRuntimeInitialization.cs.meta
+END
+ObjectTargetBehaviour.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Scripts/ObjectTargetBehaviour.cs
+END
+DefaultTrackableEventHandler.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Scripts/DefaultTrackableEventHandler.cs.meta
+END
+TurnOffWordBehaviour.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Scripts/TurnOffWordBehaviour.cs
+END
+TextRecoBehaviour.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Scripts/TextRecoBehaviour.cs.meta
+END
+UserDefinedTargetBuildingBehaviour.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Scripts/UserDefinedTargetBuildingBehaviour.cs
+END
+VuforiaRuntimeInitialization.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Scripts/VuforiaRuntimeInitialization.cs
+END
+MaskOutBehaviour.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Scripts/MaskOutBehaviour.cs
+END
+TurnOffBehaviour.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Scripts/TurnOffBehaviour.cs
+END
+VuforiaConfiguration.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Scripts/VuforiaConfiguration.cs.meta
+END
+BackgroundPlaneBehaviour.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Scripts/BackgroundPlaneBehaviour.cs.meta
+END
+DefaultInitializationErrorHandler.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Scripts/DefaultInitializationErrorHandler.cs.meta
+END
+WireframeTrackableEventHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Scripts/WireframeTrackableEventHandler.cs
+END
+Utilities.meta
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Scripts/Utilities.meta
+END
+Internal.meta
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Scripts/Internal.meta
+END
+DefaultTrackableEventHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Scripts/DefaultTrackableEventHandler.cs
+END
+ImageTargetBehaviour.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Scripts/ImageTargetBehaviour.cs
+END
+VuforiaConfiguration.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Scripts/VuforiaConfiguration.cs
+END
+ReconstructionFromTargetBehaviour.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Scripts/ReconstructionFromTargetBehaviour.cs.meta
+END
+MultiTargetBehaviour.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Scripts/MultiTargetBehaviour.cs
+END
+ObjectTargetBehaviour.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Scripts/ObjectTargetBehaviour.cs.meta
+END
+TurnOffWordBehaviour.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Scripts/TurnOffWordBehaviour.cs.meta
+END
+PropBehaviour.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Scripts/PropBehaviour.cs.meta
+END
+CylinderTargetBehaviour.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Scripts/CylinderTargetBehaviour.cs.meta
+END
+GLErrorHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Scripts/GLErrorHandler.cs
+END
+VuMarkBehaviour.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Scripts/VuMarkBehaviour.cs
+END
+VirtualButtonBehaviour.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Scripts/VirtualButtonBehaviour.cs.meta
+END
+MaskOutBehaviour.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Scripts/MaskOutBehaviour.cs.meta
+END
+TurnOffBehaviour.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Scripts/TurnOffBehaviour.cs.meta
+END
+WireframeTrackableEventHandler.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Scripts/WireframeTrackableEventHandler.cs.meta
+END
+DefaultSmartTerrainEventHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Scripts/DefaultSmartTerrainEventHandler.cs
+END
+VuforiaBehaviour.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Scripts/VuforiaBehaviour.cs
+END
+WordBehaviour.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Scripts/WordBehaviour.cs
+END
+ReconstructionFromTargetBehaviour.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Scripts/ReconstructionFromTargetBehaviour.cs
+END
+HideExcessAreaBehaviour.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Scripts/HideExcessAreaBehaviour.cs
+END
+SurfaceBehaviour.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Scripts/SurfaceBehaviour.cs.meta
+END
+ImageTargetBehaviour.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Scripts/ImageTargetBehaviour.cs.meta
+END
+CloudRecoBehaviour.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Scripts/CloudRecoBehaviour.cs
+END
+PropBehaviour.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Scripts/PropBehaviour.cs
+END
+CylinderTargetBehaviour.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Scripts/CylinderTargetBehaviour.cs
+END
+ReconstructionBehaviour.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Scripts/ReconstructionBehaviour.cs
+END
+WireframeBehaviour.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Scripts/WireframeBehaviour.cs
+END
+VirtualButtonBehaviour.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Scripts/VirtualButtonBehaviour.cs
+END
+MultiTargetBehaviour.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Scripts/MultiTargetBehaviour.cs.meta
+END
+SurfaceBehaviour.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Scripts/SurfaceBehaviour.cs
+END
+GLErrorHandler.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Scripts/GLErrorHandler.cs.meta
+END
+VuMarkBehaviour.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Scripts/VuMarkBehaviour.cs.meta
+END
+VideoBackgroundBehaviour.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Scripts/VideoBackgroundBehaviour.cs.meta
+END
+TextRecoBehaviour.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Scripts/TextRecoBehaviour.cs
+END
+BackgroundPlaneBehaviour.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Scripts/BackgroundPlaneBehaviour.cs
+END
+DefaultInitializationErrorHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Scripts/DefaultInitializationErrorHandler.cs
+END
+DefaultSmartTerrainEventHandler.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Scripts/DefaultSmartTerrainEventHandler.cs.meta
+END
+VuforiaBehaviour.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Scripts/VuforiaBehaviour.cs.meta
+END
+WordBehaviour.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Scripts/WordBehaviour.cs.meta
+END
+HideExcessAreaBehaviour.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Scripts/HideExcessAreaBehaviour.cs.meta
+END
+CloudRecoBehaviour.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Vuforia/Scripts/CloudRecoBehaviour.cs.meta
+END

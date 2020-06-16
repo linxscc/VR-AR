@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Scripts/Model
+END
+MaterialHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Scripts/Model/MaterialHandler.cs
+END
+RotateHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Scripts/Model/RotateHandler.cs
+END
+AnimationHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Scripts/Model/AnimationHandler.cs
+END
+FaceToCameraHandler.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Scripts/Model/FaceToCameraHandler.cs.meta
+END
+MaterialHandler.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Scripts/Model/MaterialHandler.cs.meta
+END
+RotateHandler.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Scripts/Model/RotateHandler.cs.meta
+END
+AnimationHandler.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Scripts/Model/AnimationHandler.cs.meta
+END
+AnimationController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Scripts/Model/AnimationController.cs
+END
+ModelController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Scripts/Model/ModelController.cs
+END
+ScaleHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Scripts/Model/ScaleHandler.cs
+END
+AnimationController.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Scripts/Model/AnimationController.cs.meta
+END
+FaceToCameraHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Scripts/Model/FaceToCameraHandler.cs
+END
+ModelController.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Scripts/Model/ModelController.cs.meta
+END
+ScaleHandler.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vplace/!svn/ver/287/procjet/Project5.3.6/Assets/Scripts/Model/ScaleHandler.cs.meta
+END
