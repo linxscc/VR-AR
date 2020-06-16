@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/vplace/!svn/ver/510/procjet/vPlaceAPPAR/Assets/ARAssets_T/Package/IOSNative/StansAssets/Modules/IOSNative/Scripts/System/Privacy/Permissions
+END
+ISN_PermissionsManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/vplace/!svn/ver/510/procjet/vPlaceAPPAR/Assets/ARAssets_T/Package/IOSNative/StansAssets/Modules/IOSNative/Scripts/System/Privacy/Permissions/ISN_PermissionsManager.cs
+END
+ISN_PrivacyPermission.cs
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/vplace/!svn/ver/510/procjet/vPlaceAPPAR/Assets/ARAssets_T/Package/IOSNative/StansAssets/Modules/IOSNative/Scripts/System/Privacy/Permissions/ISN_PrivacyPermission.cs
+END
+ISN_NativeReceiver.cs
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/vplace/!svn/ver/510/procjet/vPlaceAPPAR/Assets/ARAssets_T/Package/IOSNative/StansAssets/Modules/IOSNative/Scripts/System/Privacy/Permissions/ISN_NativeReceiver.cs
+END
+ISN_PermissionsManager.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/vplace/!svn/ver/510/procjet/vPlaceAPPAR/Assets/ARAssets_T/Package/IOSNative/StansAssets/Modules/IOSNative/Scripts/System/Privacy/Permissions/ISN_PermissionsManager.cs.meta
+END
+ISN_PrivacyPermission.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/vplace/!svn/ver/510/procjet/vPlaceAPPAR/Assets/ARAssets_T/Package/IOSNative/StansAssets/Modules/IOSNative/Scripts/System/Privacy/Permissions/ISN_PrivacyPermission.cs.meta
+END
+ISN_PermissionStatus.cs
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/vplace/!svn/ver/510/procjet/vPlaceAPPAR/Assets/ARAssets_T/Package/IOSNative/StansAssets/Modules/IOSNative/Scripts/System/Privacy/Permissions/ISN_PermissionStatus.cs
+END
+ISN_NativeReceiver.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/vplace/!svn/ver/510/procjet/vPlaceAPPAR/Assets/ARAssets_T/Package/IOSNative/StansAssets/Modules/IOSNative/Scripts/System/Privacy/Permissions/ISN_NativeReceiver.cs.meta
+END
+ISN_PermissionStatus.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/vplace/!svn/ver/510/procjet/vPlaceAPPAR/Assets/ARAssets_T/Package/IOSNative/StansAssets/Modules/IOSNative/Scripts/System/Privacy/Permissions/ISN_PermissionStatus.cs.meta
+END

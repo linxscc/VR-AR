@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vplace/!svn/ver/951/procjet/vPlaceAPPAR/Assets/Scripts/Editor
+END
+PrefabChildControlEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vplace/!svn/ver/951/procjet/vPlaceAPPAR/Assets/Scripts/Editor/PrefabChildControlEditor.cs
+END
+MyBuilder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vplace/!svn/ver/507/procjet/vPlaceAPPAR/Assets/Scripts/Editor/MyBuilder.cs
+END
+BuildAssetBundle.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vplace/!svn/ver/384/procjet/vPlaceAPPAR/Assets/Scripts/Editor/BuildAssetBundle.cs.meta
+END
+EditorWithWindow.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vplace/!svn/ver/289/procjet/vPlaceAPPAR/Assets/Scripts/Editor/EditorWithWindow.cs.meta
+END
+BuildTools.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vplace/!svn/ver/289/procjet/vPlaceAPPAR/Assets/Scripts/Editor/BuildTools.cs
+END
+PrefabChildControlEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vplace/!svn/ver/289/procjet/vPlaceAPPAR/Assets/Scripts/Editor/PrefabChildControlEditor.cs.meta
+END
+ShellScripts.meta
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vplace/!svn/ver/289/procjet/vPlaceAPPAR/Assets/Scripts/Editor/ShellScripts.meta
+END
+MyBuilder.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vplace/!svn/ver/289/procjet/vPlaceAPPAR/Assets/Scripts/Editor/MyBuilder.cs.meta
+END
+BuildTools.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vplace/!svn/ver/289/procjet/vPlaceAPPAR/Assets/Scripts/Editor/BuildTools.cs.meta
+END
+BuildAssetBundle.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vplace/!svn/ver/507/procjet/vPlaceAPPAR/Assets/Scripts/Editor/BuildAssetBundle.cs
+END
+EditorWithWindow.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vplace/!svn/ver/873/procjet/vPlaceAPPAR/Assets/Scripts/Editor/EditorWithWindow.cs
+END

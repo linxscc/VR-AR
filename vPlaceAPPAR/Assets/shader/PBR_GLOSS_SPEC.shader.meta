@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+<<<<<<< .mine
+guid: d0fba3bb975f4eb4baffecf2d3d4e8f5
+||||||| .r412
+guid: ba08d886a4623964197366e46de12526
+=======
+guid: d36e245f80e154346b8550490f7f177e
+>>>>>>> .r416
+timeCreated: 1502183841
+licenseType: Free
+ShaderImporter:
+  defaultTextures:
+  - _MainTex: {fileID: 2800000, guid: 14a1a090270720c4f992efd2e9ce1e58, type: 3}
+  - _BumpMap: {fileID: 2800000, guid: 529a085bda186eb46952447f51252980, type: 3}
+  - _SpecularMap: {fileID: 2800000, guid: 93d1581729b67ef4e8fd61a3dd30ea67, type: 3}
+  - _GlossMap: {fileID: 2800000, guid: ed1b222b0bf0d074e95f3d6c4062dc1c, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

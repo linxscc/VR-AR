@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/vplace/!svn/ver/510/procjet/vPlaceAPPAR/Assets/ARAssets_T/Package/IOSNative/StansAssets/Modules/IOSNative/Scripts/GameCenter/Generic/Enum
+END
+GK_CollectionType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/vplace/!svn/ver/510/procjet/vPlaceAPPAR/Assets/ARAssets_T/Package/IOSNative/StansAssets/Modules/IOSNative/Scripts/GameCenter/Generic/Enum/GK_CollectionType.cs
+END
+GK_MatchType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/vplace/!svn/ver/510/procjet/vPlaceAPPAR/Assets/ARAssets_T/Package/IOSNative/StansAssets/Modules/IOSNative/Scripts/GameCenter/Generic/Enum/GK_MatchType.cs
+END
+GK_InviteRecipientResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/vplace/!svn/ver/510/procjet/vPlaceAPPAR/Assets/ARAssets_T/Package/IOSNative/StansAssets/Modules/IOSNative/Scripts/GameCenter/Generic/Enum/GK_InviteRecipientResponse.cs
+END
+GK_TimeSpan.cs
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/vplace/!svn/ver/510/procjet/vPlaceAPPAR/Assets/ARAssets_T/Package/IOSNative/StansAssets/Modules/IOSNative/Scripts/GameCenter/Generic/Enum/GK_TimeSpan.cs
+END
+GK_CollectionType.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/vplace/!svn/ver/510/procjet/vPlaceAPPAR/Assets/ARAssets_T/Package/IOSNative/StansAssets/Modules/IOSNative/Scripts/GameCenter/Generic/Enum/GK_CollectionType.cs.meta
+END
+GK_MatchType.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/vplace/!svn/ver/510/procjet/vPlaceAPPAR/Assets/ARAssets_T/Package/IOSNative/StansAssets/Modules/IOSNative/Scripts/GameCenter/Generic/Enum/GK_MatchType.cs.meta
+END
+GK_PhotoSize.cs
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/vplace/!svn/ver/510/procjet/vPlaceAPPAR/Assets/ARAssets_T/Package/IOSNative/StansAssets/Modules/IOSNative/Scripts/GameCenter/Generic/Enum/GK_PhotoSize.cs
+END
+GK_InviteRecipientResponse.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/vplace/!svn/ver/510/procjet/vPlaceAPPAR/Assets/ARAssets_T/Package/IOSNative/StansAssets/Modules/IOSNative/Scripts/GameCenter/Generic/Enum/GK_InviteRecipientResponse.cs.meta
+END
+GK_TimeSpan.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/vplace/!svn/ver/510/procjet/vPlaceAPPAR/Assets/ARAssets_T/Package/IOSNative/StansAssets/Modules/IOSNative/Scripts/GameCenter/Generic/Enum/GK_TimeSpan.cs.meta
+END
+GK_PhotoSize.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/vplace/!svn/ver/510/procjet/vPlaceAPPAR/Assets/ARAssets_T/Package/IOSNative/StansAssets/Modules/IOSNative/Scripts/GameCenter/Generic/Enum/GK_PhotoSize.cs.meta
+END

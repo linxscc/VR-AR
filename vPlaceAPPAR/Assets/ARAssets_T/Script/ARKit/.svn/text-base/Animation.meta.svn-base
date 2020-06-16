@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+<<<<<<< .mine
+guid: 812f4cd60996d424993a06eaf3c25836
+||||||| .r747
+guid: 200ba1bfa60a8e14aaa7f88efee31893
+=======
+guid: 612694d3929d53443938ef6e45e9f908
+>>>>>>> .r758
+folderAsset: yes
+<<<<<<< .mine
+timeCreated: 1504088121
+||||||| .r747
+timeCreated: 1504063743
+=======
+timeCreated: 1504084036
+>>>>>>> .r758
+licenseType: Pro
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

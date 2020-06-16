@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/vplace/!svn/ver/510/procjet/vPlaceAPPAR/Assets/ARAssets_T/Package/IOSNative/StansAssets/Modules/IOSNative/Scripts/GameCenter/Generic/Templates
+END
+GK_Player.cs
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/vplace/!svn/ver/510/procjet/vPlaceAPPAR/Assets/ARAssets_T/Package/IOSNative/StansAssets/Modules/IOSNative/Scripts/GameCenter/Generic/Templates/GK_Player.cs
+END
+GK_Invite.cs
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/vplace/!svn/ver/510/procjet/vPlaceAPPAR/Assets/ARAssets_T/Package/IOSNative/StansAssets/Modules/IOSNative/Scripts/GameCenter/Generic/Templates/GK_Invite.cs
+END
+GK_Score.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/vplace/!svn/ver/510/procjet/vPlaceAPPAR/Assets/ARAssets_T/Package/IOSNative/StansAssets/Modules/IOSNative/Scripts/GameCenter/Generic/Templates/GK_Score.cs.meta
+END
+GK_LocalPlayerScoreUpdateListener.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/vplace/!svn/ver/510/procjet/vPlaceAPPAR/Assets/ARAssets_T/Package/IOSNative/StansAssets/Modules/IOSNative/Scripts/GameCenter/Generic/Templates/GK_LocalPlayerScoreUpdateListener.cs.meta
+END
+GK_Leaderboard.cs
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/vplace/!svn/ver/510/procjet/vPlaceAPPAR/Assets/ARAssets_T/Package/IOSNative/StansAssets/Modules/IOSNative/Scripts/GameCenter/Generic/Templates/GK_Leaderboard.cs
+END
+GK_LeaderboardSet.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/vplace/!svn/ver/510/procjet/vPlaceAPPAR/Assets/ARAssets_T/Package/IOSNative/StansAssets/Modules/IOSNative/Scripts/GameCenter/Generic/Templates/GK_LeaderboardSet.cs.meta
+END
+GK_LeaderBoardInfo.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/vplace/!svn/ver/510/procjet/vPlaceAPPAR/Assets/ARAssets_T/Package/IOSNative/StansAssets/Modules/IOSNative/Scripts/GameCenter/Generic/Templates/GK_LeaderBoardInfo.cs.meta
+END
+GK_AchievementTemplate.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/vplace/!svn/ver/510/procjet/vPlaceAPPAR/Assets/ARAssets_T/Package/IOSNative/StansAssets/Modules/IOSNative/Scripts/GameCenter/Generic/Templates/GK_AchievementTemplate.cs.meta
+END
+GK_Score.cs
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/vplace/!svn/ver/510/procjet/vPlaceAPPAR/Assets/ARAssets_T/Package/IOSNative/StansAssets/Modules/IOSNative/Scripts/GameCenter/Generic/Templates/GK_Score.cs
+END
+GK_LocalPlayerScoreUpdateListener.cs
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/vplace/!svn/ver/510/procjet/vPlaceAPPAR/Assets/ARAssets_T/Package/IOSNative/StansAssets/Modules/IOSNative/Scripts/GameCenter/Generic/Templates/GK_LocalPlayerScoreUpdateListener.cs
+END
+GK_ScoreCollection.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/vplace/!svn/ver/510/procjet/vPlaceAPPAR/Assets/ARAssets_T/Package/IOSNative/StansAssets/Modules/IOSNative/Scripts/GameCenter/Generic/Templates/GK_ScoreCollection.cs.meta
+END
+GK_LeaderboardSet.cs
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/vplace/!svn/ver/510/procjet/vPlaceAPPAR/Assets/ARAssets_T/Package/IOSNative/StansAssets/Modules/IOSNative/Scripts/GameCenter/Generic/Templates/GK_LeaderboardSet.cs
+END
+GK_LeaderBoardInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/vplace/!svn/ver/510/procjet/vPlaceAPPAR/Assets/ARAssets_T/Package/IOSNative/StansAssets/Modules/IOSNative/Scripts/GameCenter/Generic/Templates/GK_LeaderBoardInfo.cs
+END
+GK_Player.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/vplace/!svn/ver/510/procjet/vPlaceAPPAR/Assets/ARAssets_T/Package/IOSNative/StansAssets/Modules/IOSNative/Scripts/GameCenter/Generic/Templates/GK_Player.cs.meta
+END
+GK_Invite.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/vplace/!svn/ver/510/procjet/vPlaceAPPAR/Assets/ARAssets_T/Package/IOSNative/StansAssets/Modules/IOSNative/Scripts/GameCenter/Generic/Templates/GK_Invite.cs.meta
+END
+GK_AchievementTemplate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/vplace/!svn/ver/510/procjet/vPlaceAPPAR/Assets/ARAssets_T/Package/IOSNative/StansAssets/Modules/IOSNative/Scripts/GameCenter/Generic/Templates/GK_AchievementTemplate.cs
+END
+GK_ScoreCollection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/vplace/!svn/ver/510/procjet/vPlaceAPPAR/Assets/ARAssets_T/Package/IOSNative/StansAssets/Modules/IOSNative/Scripts/GameCenter/Generic/Templates/GK_ScoreCollection.cs
+END
+GK_Leaderboard.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/vplace/!svn/ver/510/procjet/vPlaceAPPAR/Assets/ARAssets_T/Package/IOSNative/StansAssets/Modules/IOSNative/Scripts/GameCenter/Generic/Templates/GK_Leaderboard.cs.meta
+END

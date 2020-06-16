@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vplace/!svn/ver/289/procjet/vPlaceAPPAR/Assets/Scripts/Editor/ShellScripts
+END
+GitHelpers.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vplace/!svn/ver/289/procjet/vPlaceAPPAR/Assets/Scripts/Editor/ShellScripts/GitHelpers.cs.meta
+END
+git_full_hash.sh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vplace/!svn/ver/289/procjet/vPlaceAPPAR/Assets/Scripts/Editor/ShellScripts/git_full_hash.sh
+END
+git_remote_branch_name.sh
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vplace/!svn/ver/289/procjet/vPlaceAPPAR/Assets/Scripts/Editor/ShellScripts/git_remote_branch_name.sh
+END
+git_full_hash.sh.meta
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vplace/!svn/ver/289/procjet/vPlaceAPPAR/Assets/Scripts/Editor/ShellScripts/git_full_hash.sh.meta
+END
+git_pretty_hash.sh
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vplace/!svn/ver/289/procjet/vPlaceAPPAR/Assets/Scripts/Editor/ShellScripts/git_pretty_hash.sh
+END
+git_tag_name.sh
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vplace/!svn/ver/289/procjet/vPlaceAPPAR/Assets/Scripts/Editor/ShellScripts/git_tag_name.sh
+END
+git_remote_branch_name.sh.meta
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vplace/!svn/ver/289/procjet/vPlaceAPPAR/Assets/Scripts/Editor/ShellScripts/git_remote_branch_name.sh.meta
+END
+GitHelpers.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vplace/!svn/ver/289/procjet/vPlaceAPPAR/Assets/Scripts/Editor/ShellScripts/GitHelpers.cs
+END
+git_pretty_hash.sh.meta
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vplace/!svn/ver/289/procjet/vPlaceAPPAR/Assets/Scripts/Editor/ShellScripts/git_pretty_hash.sh.meta
+END
+git_tag_name.sh.meta
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vplace/!svn/ver/289/procjet/vPlaceAPPAR/Assets/Scripts/Editor/ShellScripts/git_tag_name.sh.meta
+END

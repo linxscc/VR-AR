@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<< .mine
+guid: b68fe6a1b6b2f06488cc3d51a309bb90
+||||||| .r412
+guid: 8a384a05304eafc45be31a458dd58495
+=======
+guid: a81df9f346267ca45a5de1fdde5261d2
+>>>>>>> .r416
+timeCreated: 1502183817
+licenseType: Free
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
