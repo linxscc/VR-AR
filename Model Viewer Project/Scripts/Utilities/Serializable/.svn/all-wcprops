@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vplace/!svn/ver/85/procjet/Model%20Viewer%20Project/Assets/Scripts/Utilities/Serializable
+END
+SerializableVector2.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/vplace/!svn/ver/85/procjet/Model%20Viewer%20Project/Assets/Scripts/Utilities/Serializable/SerializableVector2.cs
+END
+SerializableExtensions.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/vplace/!svn/ver/16/procjet/Model%20Viewer%20Project/Assets/Scripts/Utilities/Serializable/SerializableExtensions.cs.meta
+END
+SerializableVector3.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/vplace/!svn/ver/16/procjet/Model%20Viewer%20Project/Assets/Scripts/Utilities/Serializable/SerializableVector3.cs
+END
+SerializableVector4.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/vplace/!svn/ver/16/procjet/Model%20Viewer%20Project/Assets/Scripts/Utilities/Serializable/SerializableVector4.cs
+END
+SerializableVector2.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/vplace/!svn/ver/16/procjet/Model%20Viewer%20Project/Assets/Scripts/Utilities/Serializable/SerializableVector2.cs.meta
+END
+SerializableVector3.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/vplace/!svn/ver/16/procjet/Model%20Viewer%20Project/Assets/Scripts/Utilities/Serializable/SerializableVector3.cs.meta
+END
+SerializableTransform.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/vplace/!svn/ver/16/procjet/Model%20Viewer%20Project/Assets/Scripts/Utilities/Serializable/SerializableTransform.cs
+END
+SerializableVector4.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/vplace/!svn/ver/16/procjet/Model%20Viewer%20Project/Assets/Scripts/Utilities/Serializable/SerializableVector4.cs.meta
+END
+SerializableColor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/vplace/!svn/ver/16/procjet/Model%20Viewer%20Project/Assets/Scripts/Utilities/Serializable/SerializableColor.cs
+END
+SerializableExtensions.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/vplace/!svn/ver/16/procjet/Model%20Viewer%20Project/Assets/Scripts/Utilities/Serializable/SerializableExtensions.cs
+END
+SerializableTransform.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/vplace/!svn/ver/16/procjet/Model%20Viewer%20Project/Assets/Scripts/Utilities/Serializable/SerializableTransform.cs.meta
+END
+SerializableColor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/vplace/!svn/ver/16/procjet/Model%20Viewer%20Project/Assets/Scripts/Utilities/Serializable/SerializableColor.cs.meta
+END
