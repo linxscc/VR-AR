@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/ARAssets_T/Package/UnityARKitPlugin/Plugins/iOS/UnityARKit/Utility
+END
+UnityARUtility.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/ARAssets_T/Package/UnityARKitPlugin/Plugins/iOS/UnityARKit/Utility/UnityARUtility.cs
+END
+UnityARAnchorManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/ARAssets_T/Package/UnityARKitPlugin/Plugins/iOS/UnityARKit/Utility/UnityARAnchorManager.cs
+END
+UnityARMatrixOps.cs
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/ARAssets_T/Package/UnityARKitPlugin/Plugins/iOS/UnityARKit/Utility/UnityARMatrixOps.cs
+END
+UnityARUtility.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/ARAssets_T/Package/UnityARKitPlugin/Plugins/iOS/UnityARKit/Utility/UnityARUtility.cs.meta
+END
+UnityARAnchorManager.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/ARAssets_T/Package/UnityARKitPlugin/Plugins/iOS/UnityARKit/Utility/UnityARAnchorManager.cs.meta
+END
+UnityARMatrixOps.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/ARAssets_T/Package/UnityARKitPlugin/Plugins/iOS/UnityARKit/Utility/UnityARMatrixOps.cs.meta
+END

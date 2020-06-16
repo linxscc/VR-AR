@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/vplace/!svn/ver/1019/procjet/MoDouAR/Assets/ARAssets_T/Package/UnityARKitPlugin/Plugins/iOS/UnityARKit/Shaders
+END
+YUVShaderLinear.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/vplace/!svn/ver/1019/procjet/MoDouAR/Assets/ARAssets_T/Package/UnityARKitPlugin/Plugins/iOS/UnityARKit/Shaders/YUVShaderLinear.shader.meta
+END
+YUVShader.shader
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/vplace/!svn/ver/1017/procjet/MoDouAR/Assets/ARAssets_T/Package/UnityARKitPlugin/Plugins/iOS/UnityARKit/Shaders/YUVShader.shader
+END
+MobileOcclusion.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/ARAssets_T/Package/UnityARKitPlugin/Plugins/iOS/UnityARKit/Shaders/MobileOcclusion.shader.meta
+END
+YUVShader.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/ARAssets_T/Package/UnityARKitPlugin/Plugins/iOS/UnityARKit/Shaders/YUVShader.shader.meta
+END
+MobileARShadow.shader
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/ARAssets_T/Package/UnityARKitPlugin/Plugins/iOS/UnityARKit/Shaders/MobileARShadow.shader
+END
+YUVShaderLinear.shader
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/vplace/!svn/ver/1019/procjet/MoDouAR/Assets/ARAssets_T/Package/UnityARKitPlugin/Plugins/iOS/UnityARKit/Shaders/YUVShaderLinear.shader
+END
+MobileARShadow.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/ARAssets_T/Package/UnityARKitPlugin/Plugins/iOS/UnityARKit/Shaders/MobileARShadow.shader.meta
+END
+MobileOcclusion.shader
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/ARAssets_T/Package/UnityARKitPlugin/Plugins/iOS/UnityARKit/Shaders/MobileOcclusion.shader
+END

@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vplace/!svn/ver/1123/procjet/MoDouAR/Assets/MoDouAR/Like/Script
+END
+ModelInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vplace/!svn/ver/1079/procjet/MoDouAR/Assets/MoDouAR/Like/Script/ModelInfo.cs
+END
+TypeButton.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vplace/!svn/ver/1044/procjet/MoDouAR/Assets/MoDouAR/Like/Script/TypeButton.cs
+END
+BottomMenu.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vplace/!svn/ver/1011/procjet/MoDouAR/Assets/MoDouAR/Like/Script/BottomMenu.cs.meta
+END
+MrControl.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vplace/!svn/ver/1085/procjet/MoDouAR/Assets/MoDouAR/Like/Script/MrControl.cs
+END
+ModelButton.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vplace/!svn/ver/1016/procjet/MoDouAR/Assets/MoDouAR/Like/Script/ModelButton.cs.meta
+END
+TakePhoto.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vplace/!svn/ver/1065/procjet/MoDouAR/Assets/MoDouAR/Like/Script/TakePhoto.cs.meta
+END
+AtView.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vplace/!svn/ver/1078/procjet/MoDouAR/Assets/MoDouAR/Like/Script/AtView.cs.meta
+END
+ModelLibrary.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vplace/!svn/ver/1091/procjet/MoDouAR/Assets/MoDouAR/Like/Script/ModelLibrary.cs
+END
+ScrollChild.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vplace/!svn/ver/1041/procjet/MoDouAR/Assets/MoDouAR/Like/Script/ScrollChild.cs.meta
+END
+BottomMenu.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vplace/!svn/ver/1116/procjet/MoDouAR/Assets/MoDouAR/Like/Script/BottomMenu.cs
+END
+MainMenuButton.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vplace/!svn/ver/1042/procjet/MoDouAR/Assets/MoDouAR/Like/Script/MainMenuButton.cs.meta
+END
+TitleMenu.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vplace/!svn/ver/1008/procjet/MoDouAR/Assets/MoDouAR/Like/Script/TitleMenu.cs.meta
+END
+ModelButton.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vplace/!svn/ver/1087/procjet/MoDouAR/Assets/MoDouAR/Like/Script/ModelButton.cs
+END
+MoDouARControl.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vplace/!svn/ver/1016/procjet/MoDouAR/Assets/MoDouAR/Like/Script/MoDouARControl.cs.meta
+END
+TakePhoto.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vplace/!svn/ver/1123/procjet/MoDouAR/Assets/MoDouAR/Like/Script/TakePhoto.cs
+END
+LoadData.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vplace/!svn/ver/1034/procjet/MoDouAR/Assets/MoDouAR/Like/Script/LoadData.cs.meta
+END
+AtView.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vplace/!svn/ver/1084/procjet/MoDouAR/Assets/MoDouAR/Like/Script/AtView.cs
+END
+ModelInfo.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vplace/!svn/ver/1016/procjet/MoDouAR/Assets/MoDouAR/Like/Script/ModelInfo.cs.meta
+END
+ScrollChild.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vplace/!svn/ver/1042/procjet/MoDouAR/Assets/MoDouAR/Like/Script/ScrollChild.cs
+END
+TypeButton.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vplace/!svn/ver/1034/procjet/MoDouAR/Assets/MoDouAR/Like/Script/TypeButton.cs.meta
+END
+MrControl.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vplace/!svn/ver/1085/procjet/MoDouAR/Assets/MoDouAR/Like/Script/MrControl.cs.meta
+END
+MainMenuButton.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vplace/!svn/ver/1072/procjet/MoDouAR/Assets/MoDouAR/Like/Script/MainMenuButton.cs
+END
+TitleMenu.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vplace/!svn/ver/1111/procjet/MoDouAR/Assets/MoDouAR/Like/Script/TitleMenu.cs
+END
+MoDouARControl.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vplace/!svn/ver/1057/procjet/MoDouAR/Assets/MoDouAR/Like/Script/MoDouARControl.cs
+END
+LoadData.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vplace/!svn/ver/1095/procjet/MoDouAR/Assets/MoDouAR/Like/Script/LoadData.cs
+END
+ModelLibrary.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vplace/!svn/ver/1011/procjet/MoDouAR/Assets/MoDouAR/Like/Script/ModelLibrary.cs.meta
+END

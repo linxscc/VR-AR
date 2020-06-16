@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/shader
+END
+Shadow.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/shader/Shadow.shader.meta
+END
+metallic.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/shader/metallic.shader.meta
+END
+custom_Lighting_D_O.shader
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/shader/custom_Lighting_D_O.shader
+END
+custom_Lighting_Diffuse_Fresnel.shader
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/shader/custom_Lighting_Diffuse_Fresnel.shader
+END
+custom_Lighting_D_N_E.shader
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/shader/custom_Lighting_D_N_E.shader
+END
+Shadow.shader
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/shader/Shadow.shader
+END
+Shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/shader/Shader.meta
+END
+PBR_GLOSS_SPEC.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/shader/PBR_GLOSS_SPEC.shader.meta
+END
+metallic.shader
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/shader/metallic.shader
+END
+diffuse_spec_normal.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/shader/diffuse_spec_normal.shader.meta
+END
+PBR_GLOSS_SPEC.shader
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/shader/PBR_GLOSS_SPEC.shader
+END
+custom_Lighting_D_O.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/shader/custom_Lighting_D_O.shader.meta
+END
+diffuse_spec_normal.shader
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/shader/diffuse_spec_normal.shader
+END
+custom_Lighting_Diffuse_Fresnel.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/shader/custom_Lighting_Diffuse_Fresnel.shader.meta
+END
+custom_Lighting_D_N_E.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/shader/custom_Lighting_D_N_E.shader.meta
+END

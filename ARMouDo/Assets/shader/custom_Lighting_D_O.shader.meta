@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+<<<<<<< .mine
+guid: 69d9919b0d5e4ee45be25deee3580aa8
+||||||| .r412
+guid: cc0d2cd6a2e0fb94db589b6096a10376
+=======
+guid: 07d36892a1aa4b844b559123db6bc2e5
+>>>>>>> .r416
+timeCreated: 1502182826
+licenseType: Free
+ShaderImporter:
+  defaultTextures:
+  - _Diffuse: {fileID: 2800000, guid: bf8e2067baa542d44be82e2f9f7be26a, type: 3}
+  - _OPACITY: {fileID: 2800000, guid: 1ba08a0a7b6dad64ea027eb0975d96c2, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

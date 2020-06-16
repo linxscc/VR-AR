@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/ARAssets_T/Package/IOSNative/StansAssets/Modules/IOSNative/Scripts/StoreKit/Enum
+END
+ISN_ProductType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/ARAssets_T/Package/IOSNative/StansAssets/Modules/IOSNative/Scripts/StoreKit/Enum/ISN_ProductType.cs
+END
+ISN_TransactionsHandlingMode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/ARAssets_T/Package/IOSNative/StansAssets/Modules/IOSNative/Scripts/StoreKit/Enum/ISN_TransactionsHandlingMode.cs
+END
+ISN_PriceTier.cs
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/ARAssets_T/Package/IOSNative/StansAssets/Modules/IOSNative/Scripts/StoreKit/Enum/ISN_PriceTier.cs
+END
+ISN_ProductType.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/ARAssets_T/Package/IOSNative/StansAssets/Modules/IOSNative/Scripts/StoreKit/Enum/ISN_ProductType.cs.meta
+END
+ISN_TransactionsHandlingMode.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/ARAssets_T/Package/IOSNative/StansAssets/Modules/IOSNative/Scripts/StoreKit/Enum/ISN_TransactionsHandlingMode.cs.meta
+END
+ISN_TransactionErrorCode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/ARAssets_T/Package/IOSNative/StansAssets/Modules/IOSNative/Scripts/StoreKit/Enum/ISN_TransactionErrorCode.cs
+END
+ISN_PriceTier.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/ARAssets_T/Package/IOSNative/StansAssets/Modules/IOSNative/Scripts/StoreKit/Enum/ISN_PriceTier.cs.meta
+END
+ISN_PurchaseState.cs
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/ARAssets_T/Package/IOSNative/StansAssets/Modules/IOSNative/Scripts/StoreKit/Enum/ISN_PurchaseState.cs
+END
+ISN_TransactionErrorCode.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/ARAssets_T/Package/IOSNative/StansAssets/Modules/IOSNative/Scripts/StoreKit/Enum/ISN_TransactionErrorCode.cs.meta
+END
+ISN_PurchaseState.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/ARAssets_T/Package/IOSNative/StansAssets/Modules/IOSNative/Scripts/StoreKit/Enum/ISN_PurchaseState.cs.meta
+END

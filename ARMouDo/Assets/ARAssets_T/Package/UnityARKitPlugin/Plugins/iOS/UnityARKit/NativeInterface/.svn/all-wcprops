@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/vplace/!svn/ver/1017/procjet/MoDouAR/Assets/ARAssets_T/Package/UnityARKitPlugin/Plugins/iOS/UnityARKit/NativeInterface
+END
+ARLightEstimate.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/ARAssets_T/Package/UnityARKitPlugin/Plugins/iOS/UnityARKit/NativeInterface/ARLightEstimate.cs.meta
+END
+ARTrackingState.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/ARAssets_T/Package/UnityARKitPlugin/Plugins/iOS/UnityARKit/NativeInterface/ARTrackingState.cs.meta
+END
+ARPoint.cs
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/ARAssets_T/Package/UnityARKitPlugin/Plugins/iOS/UnityARKit/NativeInterface/ARPoint.cs
+END
+UnityARSessionNativeInterface.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/ARAssets_T/Package/UnityARKitPlugin/Plugins/iOS/UnityARKit/NativeInterface/UnityARSessionNativeInterface.cs.meta
+END
+ARFrame.cs
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/ARAssets_T/Package/UnityARKitPlugin/Plugins/iOS/UnityARKit/NativeInterface/ARFrame.cs
+END
+ARSize.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/ARAssets_T/Package/UnityARKitPlugin/Plugins/iOS/UnityARKit/NativeInterface/ARSize.cs.meta
+END
+ARAnchor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/ARAssets_T/Package/UnityARKitPlugin/Plugins/iOS/UnityARKit/NativeInterface/ARAnchor.cs.meta
+END
+ARTrackingQuality.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/ARAssets_T/Package/UnityARKitPlugin/Plugins/iOS/UnityARKit/NativeInterface/ARTrackingQuality.cs.meta
+END
+UnityARSessionNativeInterface.cs
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/vplace/!svn/ver/1017/procjet/MoDouAR/Assets/ARAssets_T/Package/UnityARKitPlugin/Plugins/iOS/UnityARKit/NativeInterface/UnityARSessionNativeInterface.cs
+END
+ARHitTestResult.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/ARAssets_T/Package/UnityARKitPlugin/Plugins/iOS/UnityARKit/NativeInterface/ARHitTestResult.cs.meta
+END
+ARUserAnchor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/ARAssets_T/Package/UnityARKitPlugin/Plugins/iOS/UnityARKit/NativeInterface/ARUserAnchor.cs
+END
+ARSize.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/ARAssets_T/Package/UnityARKitPlugin/Plugins/iOS/UnityARKit/NativeInterface/ARSize.cs
+END
+ARAnchor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/ARAssets_T/Package/UnityARKitPlugin/Plugins/iOS/UnityARKit/NativeInterface/ARAnchor.cs
+END
+ARTrackingStateReason.cs
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/ARAssets_T/Package/UnityARKitPlugin/Plugins/iOS/UnityARKit/NativeInterface/ARTrackingStateReason.cs
+END
+ARCamera.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/ARAssets_T/Package/UnityARKitPlugin/Plugins/iOS/UnityARKit/NativeInterface/ARCamera.cs.meta
+END
+ARPoint.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/ARAssets_T/Package/UnityARKitPlugin/Plugins/iOS/UnityARKit/NativeInterface/ARPoint.cs.meta
+END
+ARPlaneAnchor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/ARAssets_T/Package/UnityARKitPlugin/Plugins/iOS/UnityARKit/NativeInterface/ARPlaneAnchor.cs.meta
+END
+ARSessionNative.mm.meta
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/ARAssets_T/Package/UnityARKitPlugin/Plugins/iOS/UnityARKit/NativeInterface/ARSessionNative.mm.meta
+END
+ARHitTestResultType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/ARAssets_T/Package/UnityARKitPlugin/Plugins/iOS/UnityARKit/NativeInterface/ARHitTestResultType.cs
+END
+ARCamera.cs
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/ARAssets_T/Package/UnityARKitPlugin/Plugins/iOS/UnityARKit/NativeInterface/ARCamera.cs
+END
+ARPlaneAnchorAlignment.cs
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/ARAssets_T/Package/UnityARKitPlugin/Plugins/iOS/UnityARKit/NativeInterface/ARPlaneAnchorAlignment.cs
+END
+ARPlaneAnchor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/ARAssets_T/Package/UnityARKitPlugin/Plugins/iOS/UnityARKit/NativeInterface/ARPlaneAnchor.cs
+END
+ARRect.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/ARAssets_T/Package/UnityARKitPlugin/Plugins/iOS/UnityARKit/NativeInterface/ARRect.cs
+END
+ARSessionNative.mm
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/vplace/!svn/ver/1017/procjet/MoDouAR/Assets/ARAssets_T/Package/UnityARKitPlugin/Plugins/iOS/UnityARKit/NativeInterface/ARSessionNative.mm
+END
+ARUserAnchor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/ARAssets_T/Package/UnityARKitPlugin/Plugins/iOS/UnityARKit/NativeInterface/ARUserAnchor.cs.meta
+END
+ARTextureHandles.cs
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/ARAssets_T/Package/UnityARKitPlugin/Plugins/iOS/UnityARKit/NativeInterface/ARTextureHandles.cs
+END
+ARTrackingStateReason.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/ARAssets_T/Package/UnityARKitPlugin/Plugins/iOS/UnityARKit/NativeInterface/ARTrackingStateReason.cs.meta
+END
+ARTrackingState.cs
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/ARAssets_T/Package/UnityARKitPlugin/Plugins/iOS/UnityARKit/NativeInterface/ARTrackingState.cs
+END
+ARLightEstimate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/ARAssets_T/Package/UnityARKitPlugin/Plugins/iOS/UnityARKit/NativeInterface/ARLightEstimate.cs
+END
+ARErrorCode.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/ARAssets_T/Package/UnityARKitPlugin/Plugins/iOS/UnityARKit/NativeInterface/ARErrorCode.cs.meta
+END
+ARHitTestResultType.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/ARAssets_T/Package/UnityARKitPlugin/Plugins/iOS/UnityARKit/NativeInterface/ARHitTestResultType.cs.meta
+END
+ARTrackingQuality.cs
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/ARAssets_T/Package/UnityARKitPlugin/Plugins/iOS/UnityARKit/NativeInterface/ARTrackingQuality.cs
+END
+ARPlaneAnchorAlignment.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/ARAssets_T/Package/UnityARKitPlugin/Plugins/iOS/UnityARKit/NativeInterface/ARPlaneAnchorAlignment.cs.meta
+END
+ARFrame.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/ARAssets_T/Package/UnityARKitPlugin/Plugins/iOS/UnityARKit/NativeInterface/ARFrame.cs.meta
+END
+ARRect.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/ARAssets_T/Package/UnityARKitPlugin/Plugins/iOS/UnityARKit/NativeInterface/ARRect.cs.meta
+END
+ARHitTestResult.cs
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/ARAssets_T/Package/UnityARKitPlugin/Plugins/iOS/UnityARKit/NativeInterface/ARHitTestResult.cs
+END
+ARTextureHandles.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/ARAssets_T/Package/UnityARKitPlugin/Plugins/iOS/UnityARKit/NativeInterface/ARTextureHandles.cs.meta
+END
+ARErrorCode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/vplace/!svn/ver/1002/procjet/MoDouAR/Assets/ARAssets_T/Package/UnityARKitPlugin/Plugins/iOS/UnityARKit/NativeInterface/ARErrorCode.cs
+END

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+<<<<<<< .mine
+guid: 66548bfaf2f71d74b9b0f43e4d01aecd
+||||||| .r412
+guid: 6c280fba0ff86614db1e21f9df42a8ee
+=======
+guid: 93abab8d644bab247819e1f211e09654
+>>>>>>> .r416
+timeCreated: 1502181234
+licenseType: Free
+ShaderImporter:
+  defaultTextures:
+  - _Diffuse: {fileID: 2800000, guid: 42913dd1919630f4cbcc18497371955f, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
